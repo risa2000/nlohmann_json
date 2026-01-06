@@ -45,3 +45,11 @@ nlohmann_json.spdx
 
 # Bazel-related
 MODULE.bazel.lock
+
+# conan
+conanbuildinfo.txt
+graph_info.json
+
+# ctest
+test.json
+
